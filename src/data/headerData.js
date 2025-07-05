@@ -1,9 +1,11 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from "../assets/pdf/yaseen.pdf"; // ✅ local pdf file
+import yaseenImage from "../assets/png/yaseen.png"; // ✅ local image
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
-    resumePdf: resume
-}
+  name: " M.Yasin Ali",
+  title: "Web & App Developer",
+  desciption:
+    "Success in any profession comes through passion and consistency. Embrace the journey, keep learning, and grow with every step—because this path happens only once.",
+  image: yaseenImage, // ✅ use imported image
+  resumePdf: resume,
+};

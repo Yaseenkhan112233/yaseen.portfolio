@@ -9,47 +9,40 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 
 
 export const testimonialsData = [
-    {
-        id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
-        image: boy2
-    },
-    {
-        id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
-    },
-    {
-        id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: girl1
-    },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
-        image: boy1
-    },
-    {
-        id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
-        image: girl3
-    },
-    {
-        id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
-        image: boy3
-    }
+  {
+    id: 1,
+    name: 'Oliver Smith',
+    title: 'Frontend Developer',
+    text: "Yasin is a highly skilled developer who consistently delivers clean and efficient code. His creativity and problem-solving abilities are truly commendable.",
+    image: boy1,
+  },
+  {
+    id: 2,
+    name: 'Emma Johnson',
+    title: 'UI/UX Designer',
+    text: "Working with Yasin was a great experience. He’s detail-oriented, communicates clearly, and brings a strong design sense to all his development work.",
+    image: girl2,
+  },
+  {
+    id: 3,
+    name: 'James Walker',
+    title: 'Product Manager',
+    text: "Yasin demonstrates professionalism and consistency in every project. He understands user needs and translates them into smooth, responsive interfaces.",
+    image: boy3,
+  },
+  {
+    id: 4,
+    name: 'Aarav Patel',
+    title: 'Software Engineer',
+    text: "Yasin’s ability to work across both frontend and backend is impressive. He adapts quickly and always delivers on time.",
+    image: boy2,
+  },
+  {
+    id: 5,
+    name: 'Sofia Rodriguez',
+    title: 'Tech Lead',
+    text: "Yasin is reliable, creative, and technically sound. His collaborative spirit and innovative thinking make him a valuable contributor to any development team.",
+    image: girl1,
+  },
 ]
 
